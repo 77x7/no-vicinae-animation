@@ -1,0 +1,13 @@
+{
+  "KPackageStructure": "KWin/Effect",
+  "KPlugin": {
+    "Id": "no-vicinae-animation",
+    "Name": "No Vicinae Animation",
+    "Description": "Disables KWin open and close animations for Vicinae",
+    "Category": "Appearance",
+    "EnabledByDefault": false,
+    "License": "MIT",
+    "Authors": [{"Name": "puzll"}]
+  },
+  "X-Plasma-API": "javascript"
+}
